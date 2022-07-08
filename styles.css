@@ -86,7 +86,7 @@ body {
         padding: .5rem 1rem;
     }
 
-    .navbar-links .active {
+    .navbar-links.active {
         display: flex;
     }
 }
